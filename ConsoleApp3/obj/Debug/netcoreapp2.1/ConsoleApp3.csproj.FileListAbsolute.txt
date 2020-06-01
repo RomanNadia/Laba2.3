@@ -1,0 +1,11 @@
+E:\Університет\Програмування\ООП\Laba2\Laba2.3\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.deps.json
+E:\Університет\Програмування\ООП\Laba2\Laba2.3\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.runtimeconfig.json
+E:\Університет\Програмування\ООП\Laba2\Laba2.3\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.runtimeconfig.dev.json
+E:\Університет\Програмування\ООП\Laba2\Laba2.3\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.dll
+E:\Університет\Програмування\ООП\Laba2\Laba2.3\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.pdb
+E:\Університет\Програмування\ООП\Laba2\Laba2.3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.csprojAssemblyReference.cache
+E:\Університет\Програмування\ООП\Laba2\Laba2.3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.csproj.CoreCompileInputs.cache
+E:\Університет\Програмування\ООП\Laba2\Laba2.3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.AssemblyInfoInputs.cache
+E:\Університет\Програмування\ООП\Laba2\Laba2.3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.AssemblyInfo.cs
+E:\Університет\Програмування\ООП\Laba2\Laba2.3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.dll
+E:\Університет\Програмування\ООП\Laba2\Laba2.3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.pdb

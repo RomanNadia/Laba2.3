@@ -50,28 +50,18 @@ namespace ConsoleApp3
         {
             Console.WriteLine("Enter n ");
             int n = Convert.ToInt32(Console.ReadLine());
+            int min = -100, max = 100;
+            Random realRnd = new Random();
             int[] arr = new int[n];
             for (int i = 0; i < n; i++)
             {
-                bool some = true;
-                while (some)
-                {
-                    Console.Write("Enter element of array   ", i);
-                    string S1 = Console.ReadLine();
-                    if (double.Parse(S1) % 1 == 0)
-                    {
-                        arr[i] = int.Parse(S1);
-                        some = false;
-                    }
-                    else
-                    {
-                        Console.WriteLine("Please enter integer number  ");
-                    }
-                }
+                arr[i] = realRnd.Next(min, max + 1);
+                Console.WriteLine("     " + arr[i]);
+
             }
-            int min = MinAbs(arr, n);
+            int minEl = MinAbs(arr, n);
             int sum = Sum(arr, n);
-            Console.WriteLine("the index of the smallest number modulo is " + min);
+            Console.WriteLine("the index of the smallest number modulo is " + minEl);
             Console.WriteLine("the sum of elements between the first and the last positive number " + sum);
 
 
